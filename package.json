@@ -1,0 +1,14 @@
+{
+  "name": "dialogflow-types-test",
+  "version": "0.0.1",
+  "author": "Tom Carrio <tom@carrio.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/uuid": "^8.3.3",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@google-cloud/dialogflow": "^4.6.0",
+    "uuid": "^8.3.2"
+  }
+}
